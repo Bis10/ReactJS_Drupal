@@ -1,6 +1,6 @@
 # REACTJS-DRUPAL
 
-ReactJS-Drupal is a simple application which attempts to demonstrate headless drupal feature in Drupal 9.
+ReactJS-Drupal is a simple application which attempts to demonstrate headless drupal feature in Drupal 10.
 
 ---
 
@@ -11,13 +11,13 @@ ReactJS-Drupal is a simple application which attempts to demonstrate headless dr
 ```shell
 git clone reactjs_drupal
 cd reactjs_drupal
-npm i --leagacy-peer-deps
+npm i --legacy-peer-deps
 npm start
 ```
 
 ## Instructions
 
-- Make sure you have Drupal 9 running as backend
+- Make sure you have Drupal 10 running as backend
 - Make sure you copy URL in config.js
 - Add token inside token file by visiting your site
 - /YOUR_LOCAL_DRUPAL_URL/session/token
